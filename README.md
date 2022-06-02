@@ -14,3 +14,11 @@ removing any dominated alternative
 4. The program asks whether you would like to make an even swap and displays whether an alternative is likely 
 to dominate another, and displays the objective ranks that are almost equal such that it is easier to see what
 objectives and alternatives you should make swaps on
+
+The B&K Two-Attribute Example notebook file is to show how the two-attribute example from Bhattacharjya and Kephart (2014) functions and can be adjusted for different coordinate pairs and limits for the uniform distribution, where the min limit is 0 and the max limit is 1
+
+References
+
+Bhattacharjya, D., and J. Kephart, 2014, Bayesian interactive decision support for multi-attribute problems with even swaps: Uncertainty in Artificial Intelligence - Proceedings of the 30th Conference, UAI 2014, p. 72–81.
+
+Hammond, J., R. Keeney, and H. Raiffa, 1998, Even Swaps: A Rational Method for Making Trade-offs: Harvard business review, v. 76, p. 137–143.
