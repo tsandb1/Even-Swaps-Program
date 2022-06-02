@@ -1,4 +1,4 @@
-# Even-Swaps-Program
+# Even Swaps Program
 A program based on the Even Swaps method by Hammond et al. (1998)
 
 The following are the rules for using the even swaps program:
